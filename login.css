@@ -1,0 +1,95 @@
+*{  margin: 0px;
+    border: 0px;
+    
+
+}
+
+.one{
+    background-color: black;
+    color: bisque;
+    height: 75px;
+    width: 1366px;
+
+}
+#logo{
+   height: 60px;
+   width: 60px;
+   display: inline-block;
+   margin-left: 6px;
+   margin-top:7px;
+  
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+    margin-left: 530px;
+}
+.tab1{
+    color:black
+    margin:5px;
+    display: inline-block;
+   text-align: end;
+    padding: 20px;
+    margin-left: 430px;
+    height: 20px;
+    margin-bottom: 20px;
+   
+}
+.two{
+    background-color: antiquewhite;
+    color: black;
+      width: 1366px;
+
+}
+
+.a{
+    margin: 25px 0px 25px 560px;
+    display: inline-block;
+}
+h2{
+    margin: 5px 5px 5px 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+input,select{
+    border:2px ridge black;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    
+  
+}
+.three{
+    margin-top:50px ;
+     width: 1366px;
+}
+.four{
+    width: 1366px;
+}
+.but2{
+     display: inline-block;
+    margin: 50px 1px 1px 520px;
+    height: 40px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+
+
+}
+.but1{
+    display: inline-block;
+    margin: 0px 1px 1px 90px;
+    height: 40px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.p1{
+    margin-top: 20px;
+    text-align: center;
+}
+

@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.one{
+    background-color: black;
+    color: bisque;
+    height: 75px;
+    width: 1351px;
+
+}
+#logo{
+   height: 60px;
+   width: 60px;
+   display: inline-block;
+   margin-left: 6px;
+   margin-top:7px;
+  
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+    margin-left: 530px;
+}
+table{
+    
+   
+    margin:5px;
+    display: inline-block;
+   text-align: end;
+    padding: 20px;
+    margin-left: 420px;
+    height: 20px;
+    margin-bottom: 20px;
+    cursor:pointer;
+}
+.two{
+    background-color: bisque;
+    width: 1291px;
+    text-align: center;
+    padding: 30px;
+    height:600px;
+    border: 10px;
+    
+}

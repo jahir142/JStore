@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.one{
+    background-color: black;
+    color: bisque;
+    height: 75px;
+    width: 1351px;
+
+}
+#logo{
+   height: 60px;
+   width: 60px;
+   display: inline-block;
+   margin-left: 6px;
+   margin-top:7px;
+  
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+    margin-left: 530px;
+}
+table{
+    
+   
+    margin:5px;
+    display: inline-block;
+   text-align: end;
+    padding: 20px;
+    margin-left: 420px;
+    height: 20px;
+    margin-bottom: 20px;
+    cursor:pointer;
+}
+.two{
+    background-color: cornsilk;
+    width: 1351px;
+    height:884.5px;
+}
+p{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.img1{
+    height: 490px;
+    width: 1280px;
+    margin-left: 37px;
+}
+.three{
+    width: 1351px;
+    background-color: coral;
+}
