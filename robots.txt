@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://jahir142.github.io/JStore/sitemap.xml
