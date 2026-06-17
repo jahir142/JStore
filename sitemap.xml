@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://jahir142.github.io/JStore/</loc>
-    </url>
+
+  <url>
+    <loc>https://jahir142.github.io/JStore/</loc>
+  </url>
+
+  <url>
+    <loc>https://jahir142.github.io/JStore/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://jahir142.github.io/JStore/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://jahir142.github.io/JStore/login.html</loc>
+  </url>
+
+  <url>
+    <loc>https://jahir142.github.io/JStore/wel.html</loc>
+  </url>
+
 </urlset>
